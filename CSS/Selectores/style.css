@@ -1,0 +1,17 @@
+/* Selector por elemento */
+
+li {
+    color: blue;
+}
+
+/* Selector por clase */
+
+.faltante {
+    color: red;
+}
+
+/* Selector por ID */
+
+#ingrediente-secreto {
+    color: rgb(234, 0, 152);
+}
